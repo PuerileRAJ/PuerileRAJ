@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PuerileRAJ
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL,Python.
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me ...
 - 
 
