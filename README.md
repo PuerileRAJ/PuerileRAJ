@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PuerileRAJ
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Full Stack Development.
 - 📫 How to reach me ...
 - 
 
